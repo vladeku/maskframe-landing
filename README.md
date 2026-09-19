@@ -11,8 +11,8 @@ the personal details in a screenshot before it is shared. Served by GitHub Pages
 The app was called SafeShot until 19 September 2026 and its site lived at `getsafeshot.app`,
 in `vladeku/safeshot-landing`. That repository keeps the old domain answering, with redirects
 to the same paths here, because every installed copy of versions 1.0 and 1.1 links to
-`getsafeshot.app/privacy/` and `getsafeshot.app/terms/`. The two documents say "formerly
-SafeShot" once, so the agreement a user made under the old name reads as the same one.
+`getsafeshot.app/privacy/` and `getsafeshot.app/terms/`. The two documents do not mention the
+old name: with next to no users under it, a clean text was worth more than the continuity.
 
 ## The OG image
 

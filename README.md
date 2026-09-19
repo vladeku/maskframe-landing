@@ -9,10 +9,9 @@ the personal details in a screenshot before it is shared. Served by GitHub Pages
 - `404.html` is the page GitHub Pages serves for any other address.
 
 The app was called SafeShot until 19 September 2026 and its site lived at `getsafeshot.app`,
-in `vladeku/safeshot-landing`. That repository keeps the old domain answering, with redirects
-to the same paths here, because every installed copy of versions 1.0 and 1.1 links to
-`getsafeshot.app/privacy/` and `getsafeshot.app/terms/`. The two documents do not mention the
-old name: with next to no users under it, a clean text was worth more than the continuity.
+in `vladeku/safeshot-landing`. That domain was switched off the same day with no redirects,
+and the repository is archived; the press kit's source is still there. The two documents do
+not mention the old name.
 
 ## The OG image
 
